@@ -2,4 +2,4 @@
 my name is sergey
 learn github
 added this string
-added 2 string
+added 2 strin
